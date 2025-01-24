@@ -4,7 +4,7 @@
         "X-Azure-FDID" : "27c230f1-ad26-4201-8643-d23687ddfbdb"
       },
       "allowedForwardedHosts": [
-        "my-sitename.azurefd.net"
+        "fde-stapp-with-auth-aqbwgzcsgbdxh8ew.b02.azurefd.net"
       ]
     },
     "networking": {
